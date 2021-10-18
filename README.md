@@ -1,4 +1,4 @@
-#How to Use package.json, the Core of Any Node.js Project or npm Package
+# How to Use package.json, the Core of Any Node.js Project or npm Package
 ## Working on these challenges will involve you writing your code using one of the following methods:
 
 ### Clone this GitHub repo and complete these challenges locally.
